@@ -45,13 +45,16 @@ body {
 }
 .title {
     text-align: center;
-
 }
 .title:first-child {
     margin-top: 0;
 }
 .title:last-child {
     margin-bottom: 0;
+}
+.sub-title {
+    text-align: center;
+    padding: 0 16px;
 }
 @media screen and (max-width: 375px) {
     
